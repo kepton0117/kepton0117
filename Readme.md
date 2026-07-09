@@ -16,12 +16,6 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ---
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kepton0117&theme=github_dark" alt="Profile Summary" width="90%" />
-</p>
-
 ## 📫 CONNECT WITH ME
 
 <p align="center">
